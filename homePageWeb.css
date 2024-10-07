@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+    font-family: 'Inter';
+}
+
+.myNavBar {
+    background-color: #D9D9D9;
+    height: 40px;
+    max-width: 100%;
+    position: relative;
+
+    a {
+        color: #222222;
+        font-size: 80%;
+        text-decoration: none;
+        float: right;
+        padding:1% 2%;
+        margin: 0;
+    }
+
+    .current {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+}
+
+.myNavBar a:hover {
+    color: #808080;
+}
+
+div.resumeSummary {
+    background-color: #353535;
+    width: 45%;
+    padding-bottom: 3%;
+    position: relative;
+
+    img {
+        width: 27%;
+        padding-left: 5%;
+        padding-top: 2%;
+        float: left;
+    }
+
+    p.personalInfo {
+        margin-left: 35%;
+        padding-top: 5%;
+        color: #d6d6d6;
+        font-size: 100%;
+        line-height: 100%;
+
+        #myAddress {
+            font-size: 85%;
+        }
+    }
+
+    div.Summary {
+        width: 65%;
+        color: #d6d6d6;
+        margin-top: 10%;
+
+        p {
+            margin-left: 10%;
+            width: 80%;
+            color: #d6d6d6;
+            font-size: 100%;
+            line-height: 110%;
+            padding-left: 5%;
+            text-indent: -5%;
+        }
+    }
+}
+
+div.VideoResume {
+    width: 55%;
+    margin-left: 45%;
+    position: relative;
+    margin-top: -40%;
+
+    iframe {
+        margin-left: 5%;
+        width: 90%;
+        height: 300px;
+    }
+}
