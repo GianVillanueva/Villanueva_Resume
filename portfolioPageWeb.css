@@ -137,17 +137,10 @@ div.Certificates {
         width: 20%;
         margin-top: 25%;
     }
-
-    img#BootcampGroupPhoto {
-        width: 50%;
-        margin-left: 45%;
-        margin-top: 15%;
-        position: absolute;
-    }
     img#BootcampLeanCanvas {
-        width: 40%;
+        width: 50%;
         margin-left: 40%;
-        margin-top: 35%;
+        margin-top: 25%;
         position: absolute;
     }
     img#BootcampThirdPlace {
