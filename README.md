@@ -1,2 +1,2 @@
-# Villanueva_CV
-Online curriculum vitae of Gian Mori U. VIllanueva
+# Villanueva_Portfolio
+Online portfolio of Gian Mori U. VIllanueva
